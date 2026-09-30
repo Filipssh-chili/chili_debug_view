@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4.0
+- Updates the minimum supported SDK version to Flutter 3.44/Dart 3.12.
+- Migrates to built-in Kotlin.
+- Update packages to latest:
+  - share_plus
+
 ## 1.3.2
 - Show erorr response of `List<int>` endpoints as a JSON instead of `List<int>`
 
